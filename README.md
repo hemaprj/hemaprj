@@ -20,4 +20,5 @@ My Tech skills include SQL, Python, SSRS, Crystal Reports, SSRS, Power BI, Machi
 - 🌱 I’m currently learning about AI Agents
 - 👯 I'm open to collaborating on interesting projects.
 
+### 📫 How to reach me: www.linkedin.com/in/hemaprj
 
